@@ -1,0 +1,16 @@
+package com.salesforce;
+
+import org.junit.Test;
+
+import static org.junit.Assert.*;
+
+public class CommandTest {
+
+    @Test
+    public void findCommand() {
+    }
+
+    @Test
+    public void getCommand() {
+    }
+}

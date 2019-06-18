@@ -1,0 +1,34 @@
+# pom upgrade #
+*.xml.bak
+
+# eclipse #
+.classpath
+.settings
+.project
+.metadata
+.recommenders
+
+src/META-INF/*
+
+target
+*.log
+*.bak
+
+lc-merged.properties
+*.class
+# Package Files #
+*.war
+*.ear
+
+# idea #
+.idea
+*.iml
+
+# JTA #
+*.epoch
+
+.DS_Store
+
+git.properties
+
+bin
